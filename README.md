@@ -108,6 +108,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
   <p>
     <a href="https://mojito-cocktail-seven.vercel.app/">Visit Live Site</a> •
-    <a href="https://github.com/visernic/mojito-cocktail.git">View Source</a>
+    <a href="https://github.com/md-mostafa-niloy/mojito-cocktail.git">View Source</a>
   </p>
 </div>
